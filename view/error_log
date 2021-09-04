@@ -1,0 +1,3 @@
+[20-Aug-2021 08:15:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bakj3132/public_html/restoran/view/editmenu.php:53) in /home/bakj3132/public_html/restoran/view/editmenu.php on line 95
+[20-Aug-2021 08:15:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bakj3132/public_html/restoran/view/editmenu.php:53) in /home/bakj3132/public_html/restoran/view/editmenu.php on line 95
+[20-Aug-2021 08:40:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bakj3132/public_html/restoran/view/editmenu.php:53) in /home/bakj3132/public_html/restoran/view/editmenu.php on line 95
